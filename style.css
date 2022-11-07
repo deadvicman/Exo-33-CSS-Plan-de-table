@@ -1,0 +1,152 @@
+#classe {
+    height: 900px;
+    width: 800px;
+    border: black solid 2px;
+}
+
+div {
+    position: absolute;
+}
+
+.v {
+    height: 200px;
+    width: 100px;
+    border: black solid 1px;
+}
+
+.h {
+    height: 100px;
+    width: 200px;
+    border: black solid 1px;
+}
+
+p {
+    text-align: center;
+}
+
+.h p{
+    top: 25px;
+}
+
+.v p{
+    top: 75px;
+}
+
+#jerome {
+    top: 20px;
+    left: 300px;
+}
+
+#ilot1,#ilot2,#ilot3,#ilot4 {
+    outline: blue solid 1px;
+}
+
+#ilot1,#ilot2 {
+
+
+}
+
+
+#ilot1 {
+    top: 150px;
+    left: 20px;
+    width: 200px;
+    height: 400px;
+}
+
+#ilot2 {
+    top: 150px;
+    right: 20px;
+    width: 200px;
+    height: 400px;
+}
+
+#ilot3 {
+    height: 200px;
+    width: 300px;
+    bottom: 20px;
+    left: 0;
+
+}
+
+#ilot4 {
+    height: 200px;
+    width: 400px;
+    bottom: 20px;
+    right: 20px;
+}
+
+#vincent {
+    left:0;
+    top:0;
+}
+
+#lillian {
+    right:0;
+    top:100px;
+}
+
+#damien {
+    left:0;
+    top:100px;
+}
+
+#corentin {
+    bottom: 10px;
+    left: 10px;
+}
+
+#benjamin {
+    top: 0;
+    left: 0;
+}
+
+#vide1 {
+    top: 100px;
+    left: 0;
+}
+
+#laurie {
+    top: 100px;
+    right: 0;
+}
+
+#jeanmichel {
+    bottom: 0;
+    left: 0;
+}
+
+#matheo {
+    bottom: 0;
+    left: 0;
+}
+
+#vide2 {
+    top: 0;
+    left: 0;
+}
+
+#vide3 {
+    top: 0;
+    right: 0;
+}
+
+#remy {
+    top: 0;
+    left: 100px;
+}
+
+#jordan {
+    left: 0;
+    top: 0;
+}
+
+#victorien {
+    top: 0;
+    right: 0;
+}
+
+#hugo {
+    bottom: 0;
+    left: 100px;
+}
